@@ -1,4 +1,18 @@
 ### <h2>Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+<br />
+
+<h2>⚡ Programming Languages and Tools:</h2>
+<h1>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img height="50" src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+</h1>
+
 <br />
 
 <h2>📫 How to reach me:</h2>
@@ -24,37 +38,20 @@
 <h2></h2>
 <br />
 
+
+<!--
 <h2>💬 Languages:</h2>
 <h1>
   <img height="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-brazil-flag-countrys-flags-justicon-lineal-color-justicon.png"/>
   <img height="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-uk-flag-countrys-flags-justicon-lineal-color-justicon.png"/>
 </h1>
 
-<br />
-
-<h2>⚡ Programming Languages and Tools:</h2>
-<h1>
-  <img height="50" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img height="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-  <img height="50" src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>
-  <img height="50" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-</h1>
-
-<br />
-
+**weverton-souza/weverton-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 |     Service     | Badge |
 |-----------------|-------|
-|  **GitHub**     |[![GitHub last commit](https://img.shields.io/github/last-commit/weverton-souza/weverton-souza.github.io)](https://github.com/Spring-Boot-Framework/Spring-Boot-Application-Template/commits/master)
+|  **GitHub**     |[![GitHub last commit](https://img.shields.io/github/last-commit/weverton-souza/weverton-souza.github.io)](https://github.com/weverton-souza)
 
 <br />
-
-
-<!--
-**weverton-souza/weverton-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -66,11 +63,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![](https://visitor-badge.glitch.me/badge?page_id=weverton-souza.weverton-souza)
 -->
-
-<div align="center">
+<h2>📊 GitHub Stats</h2>
+<div align="left">
   <a href="https://github.com/weverton-souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weverton-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weverton-souza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weverton-souza&layout=compact&langs_count=7&theme=dracula"/>
+     <h2 />
 </div>
-  
+
 ![Snake animation](https://github.com/weverton-souza/weverton-souza/blob/output/github-contribution-grid-snake.svg)
+
+
