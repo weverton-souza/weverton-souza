@@ -4,14 +4,14 @@
 <h2>📫 How to reach me:</h2>
 <br />
 <div>
-  <p><a href="https://www.linkedin.com/in/weverton-souza-37a3a8b7/" target="_blank">
-    <img  align="left" alt="Weverton's Linkedin" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></p>
+  <a href="https://www.linkedin.com/in/weverton-souza-37a3a8b7/">
+    <img  align="left" alt="Weverton's Linkedin" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
   </a>
-  <a target="_blank" href="https://open.spotify.com/user/weverton.silva.souza?si=c0eb68e9df044c2d">
+  <a href="https://open.spotify.com/user/weverton.silva.souza?si=c0eb68e9df044c2d">
     <img align="left" alt="Weverton's Spotify" width="50" src="https://img.icons8.com/dusk/64/000000/spotify.png"/>
   </a>
 
-  <a target="_blank" href="mailto:wevertonad@gmail.com">
+  <a href="mailto:wevertonad@gmail.com">
     <img align="left" alt="Weverton's email" width="50" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
   </a>
 
