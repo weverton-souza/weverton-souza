@@ -3,26 +3,28 @@
 
 <h2>📫 How to reach me:</h2>
 <br />
-<a href="https://www.linkedin.com/in/weverton-souza-37a3a8b7/">
-  <img  align="left" alt="Weverton's LinkedIN" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
-</a>
-<a href="https://open.spotify.com/user/weverton.silva.souza?si=c0eb68e9df044c2d">
-  <img align="left" alt="Weverton's Spotify" width="50" src="https://img.icons8.com/dusk/64/000000/spotify.png"/>
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/weverton-souza-37a3a8b7/">
+    <img  align="left" alt="Weverton's LinkedIN" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
+  </a>
+  <a href="https://open.spotify.com/user/weverton.silva.souza?si=c0eb68e9df044c2d">
+    <img align="left" alt="Weverton's Spotify" width="50" src="https://img.icons8.com/dusk/64/000000/spotify.png"/>
+  </a>
 
-<a href="mailto:wevertonad@gmail.com">
-<img align="left" alt="Weverton's email" width="50" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
-</a>
+  <a href="mailto:wevertonad@gmail.com">
+    <img align="left" alt="Weverton's email" width="50" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
+  </a>
 
-<a>
-  <img align="left" alt="Weverton's instagram" width="50" src="https://img.icons8.com/dusk/64/000000/instagram-new.png"/>
-</a>
-
+  <a>
+    <img align="left" alt="Weverton's instagram" width="50" src="https://img.icons8.com/dusk/64/000000/instagram-new.png"/>
+  </a>
+  <br />
+</div>
 <br />
 <h2></h2>
 <br />
 
-### <h2>**⚡ Languages and Tools:**</h2>
+<h2>⚡ Languages and Tools:</h2>
 <h1>
   <img height="75" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img height="75" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
