@@ -24,14 +24,23 @@
 <h2></h2>
 <br />
 
-<h2>⚡ Languages and Tools:</h2>
+<h2>💬 Languages:</h2>
 <h1>
-  <img height="75" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img height="75" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
-  <img height="75" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-  <img height="75" src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>
-  <img height="75" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-  <img height="75" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-brazil-flag-countrys-flags-justicon-lineal-color-justicon.png"/>
+  <img height="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-uk-flag-countrys-flags-justicon-lineal-color-justicon.png"/>
+</h1>
+
+<br />
+
+<h2>⚡ Programming Languages and Tools:</h2>
+<h1>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img height="50" src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 </h1>
 
 <br />
