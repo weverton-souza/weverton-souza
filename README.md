@@ -26,24 +26,23 @@ Developing software is an art to which I've been dedicating myself for six years
   <img height="35" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
 </h1>
 
-<br />
 
 <h2>📫 How to reach me:</h2>
 <br />
 <div>
   <a href="https://www.linkedin.com/in/weverton-souza-37a3a8b7/">
-    <img  align="left" alt="Weverton's Linkedin" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img  align="auto" alt="Weverton's Linkedin" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://open.spotify.com/user/weverton.silva.souza?si=c0eb68e9df044c2d">
-    <img align="left" alt="Weverton's Spotify" height="35" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img align="auto" alt="Weverton's Spotify" height="35" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 
   <a href="mailto:wevertonad@gmail.com">
-    <img align="left" alt="Weverton's email" height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img align="auto" alt="Weverton's email" height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.instagram.com/wevertonsouza.me"/>
-    <img align="left" alt="Weverton's instagram" height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img align="auto" alt="Weverton's instagram" height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <br />
 </div>
