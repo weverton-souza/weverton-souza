@@ -51,8 +51,8 @@ Developing software is an art to which I've been dedicating myself for six years
 <div align="center">
   <center>
    <a href="https://github.com/weverton-souza"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=weverton-souza&&show_icons=true&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=weverton-souza&layout=compact&count_private=true&show_icons=true&theme=midnight-purple&langs_count=8"/>
+  <img height="155em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=weverton-souza&&show_icons=true&theme=midnight-purple"/>
+  <img height="155em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=weverton-souza&layout=compact&count_private=true&show_icons=true&theme=midnight-purple&langs_count=8"/>
 </center>
      <h2 />
 </div>
