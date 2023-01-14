@@ -30,6 +30,7 @@ Developing software is an art to which I've been dedicating myself for six years
 
 
 <h2>📫 How to reach me:</h2>
+<br />
 <div>
   <a href="https://www.linkedin.com/in/weverton-souza-37a3a8b7/">
     <img  align="right" alt="Weverton's Linkedin" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -40,7 +41,6 @@ Developing software is an art to which I've been dedicating myself for six years
   <a href="mailto:wevertonad@gmail.com">
     <img align="right" alt="Weverton's email" height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/wevertonsouza.me"/>
     <img align="right" alt="Weverton's instagram" height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
